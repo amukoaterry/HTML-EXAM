@@ -1,0 +1,9 @@
+#general{
+        background-color: rgb(190, 183, 190);
+       
+}
+
+#container{
+        display: flex;
+        gap: 50px;
+    }
