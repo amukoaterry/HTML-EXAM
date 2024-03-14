@@ -1,9 +1,62 @@
 #general{
-        background-color: rgb(190, 183, 190);
+        background-color: white;
        
 }
 
 #container{
         display: flex;
-        gap: 50px;
+        justify-content: space-between;
+        color: black;
     }
+
+#font{
+    font-size: 30px;
+}
+
+    #hat{
+    display: flex;
+    justify-content: center;
+    gap: 500px;
+    }
+
+
+#Autum{
+    text-align: center;
+}
+
+
+#Black{
+    display: flex;
+    justify-content: center;
+    gap: 250px;
+}
+
+
+#instagram{
+    font-size: 20px;
+    text-align: center;
+    font-style: normal;
+}
+#images{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+    #Words{
+        background-color: white;
+        color: black;
+    }
+
+    #down{
+        display: flex;
+        justify-content: center;
+        gap: 200px;
+        }
+
+        #AllRights{
+
+text-align: center;            
+        }
+        
+
